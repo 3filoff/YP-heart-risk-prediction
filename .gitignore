@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.ipynb_checkpoints/
+.DS_Store
+*.code-workspace
+
+# Data & Models (опционально — если не хочешь делиться)
+#datasets/*.csv
+#models/
+artifacts/
+catboost_info/
+
+# Logs
+*.log

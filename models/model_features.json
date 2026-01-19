@@ -1,0 +1,17 @@
+[
+  "bmi",
+  "triglycerides",
+  "cholesterol",
+  "exercise_hours_per_week",
+  "systolic_blood_pressure",
+  "diastolic_blood_pressure",
+  "age",
+  "heart_rate",
+  "previous_heart_problems",
+  "family_history",
+  "blood_sugar",
+  "smoking",
+  "gender",
+  "missing_anamnesis",
+  "invalid_blood_pressure"
+]

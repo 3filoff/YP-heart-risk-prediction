@@ -1,0 +1,13 @@
+name: heart_risk_api
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas
+  - pip
+  - pip:
+    - catboost
+    - fastapi
+    - uvicorn
+    - python-multipart

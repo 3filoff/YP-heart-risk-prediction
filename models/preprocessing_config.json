@@ -1,0 +1,6 @@
+{
+  "preprocessor_version": "v1.0",
+  "drop_leaky_features": true,
+  "add_missing_anamnesis_flag": true,
+  "target_column": "heart_attack_risk_binary"
+}
