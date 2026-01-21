@@ -122,7 +122,7 @@ python app.py
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-![FastAPI сервер](../docs/screenshots/012.png)
+![FastAPI сервер](./docs/screenshots/010.png)
 
 
 ### 4. Используйте приложение
@@ -163,9 +163,7 @@ curl -X POST "http://localhost:8000/predict/csv" \
 ![Интерфейс приложения](./docs/screenshots/006.jpg)
 ![Интерфейс приложения](./docs/screenshots/007.jpg)
 ![Интерфейс приложения](./docs/screenshots/008.jpg)
-![Интерфейс приложения](./docs/screenshots/009.jpg)
-![Интерфейс приложения](./docs/screenshots/011.jpg)
-![Отчёт об анализе сердечного риска](./docs/screenshots/010.jpg)
+![Отчёт об анализе сердечного риска](./docs/screenshots/009.jpg)
 
 
 
